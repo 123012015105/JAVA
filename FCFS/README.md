@@ -20,6 +20,7 @@
     * 当有**两个**处理队列时的情况。<br>
 ### 三、实验结果
 -----------------
+![Alt text](https://github.com/123012015105/JAVA/blob/master/FCFS/images/demo.png)
 1. 当只有一个处理队列时的情况结果：<br>
 
 2. 当有两个处理队列时的情况结果：<br>
